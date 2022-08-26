@@ -1,0 +1,107 @@
+/* Headline 1 */
+
+#h1 { font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 700;
+font-size: 99px;
+line-height: 100%;
+/* identical to box height, or 99px */
+letter-spacing: -1.5px;
+
+color: #000000;
+}
+
+/* Headline 2 */
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 62px;
+line-height: 81px;
+/* identical to box height */
+letter-spacing: -1.5px;
+
+color: #000000;
+
+/* Headline 3 */
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 49px;
+line-height: 63px;
+/* identical to box height */
+
+color: #000000;
+
+/* Headline 4 */
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 45px;
+/* identical to box height */
+letter-spacing: 0.5px;
+
+color: #000000;
+
+/* Headline 5 */
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 32px;
+/* identical to box height */
+
+color: #000000;
+
+/* Headline 6 */
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 27px;
+letter-spacing: 0.15px;
+
+color: #000000;
+
+/* Body */
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+letter-spacing: 0.5px;
+
+color: #000000;
+
+/* Button */
+
+font-family: 'Space Grotesk';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+letter-spacing: 0.5px;
+text-transform: uppercase;
+
+color: #000000;
+
+/* Badge */
+
+font-family: 'IBM Plex Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 150%;
+/* identical to box height, or 21px */
+letter-spacing: 0.5px;
+
+color: #000000;
+
